@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="main">Main Activity</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="music_list">Music List</string>
+    <string name="buy_music">Buy Music</string>
+
+    <string name="search">Search</string>
+
+    <string name="main_activity">MainActivity for all options of application</string>
+    <string name="now_playing_activity">NowPlaying Activity for music that playing now</string>
+    <string name="music_list_activity">MusicList Activity for all music in library</string>
+    <string name="buy_music_activity">BuyMusic Activity to search about music and buy it from play store
+        using the google play library to display songs and buy songs using Credit and debit cards (MasterCard and Visa)
+        method while it is the only method available in Iraq</string>
+
+</resources>
